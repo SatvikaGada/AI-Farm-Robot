@@ -1,0 +1,145 @@
+Hour,Solar Energy (W),Biomass Energy (W),Battery Storage (W),Weather,Day/Night,Energy Mode
+0,7,15,10,Sunny,1,Low Power
+0,0,15,9,Sunny,0,High Power
+0,3,8,5,Cloudy,1,Standard
+0,0,11,7,Cloudy,0,High Power
+0,5,10,10,Rainy,1,Low Power
+0,0,8,15,Rainy,0,Standard
+1,3,8,15,Sunny,1,Low Power
+1,0,14,14,Sunny,0,Standard
+1,2,10,12,Cloudy,1,High Power
+1,0,5,10,Cloudy,0,Low Power
+1,2,10,13,Rainy,1,Standard
+1,0,8,6,Rainy,0,Low Power
+2,0,9,7,Sunny,1,Low Power
+2,0,9,11,Sunny,0,High Power
+2,9,5,12,Cloudy,1,High Power
+2,0,9,12,Cloudy,0,High Power
+2,7,5,14,Rainy,1,Standard
+2,0,11,7,Rainy,0,High Power
+3,6,9,14,Sunny,1,Low Power
+3,0,6,15,Sunny,0,Low Power
+3,10,6,6,Cloudy,1,High Power
+3,0,6,11,Cloudy,0,Standard
+3,3,12,10,Rainy,1,Low Power
+3,0,14,10,Rainy,0,Low Power
+4,10,6,15,Sunny,1,High Power
+4,0,15,13,Sunny,0,Low Power
+4,9,5,8,Cloudy,1,Low Power
+4,0,11,5,Cloudy,0,High Power
+4,0,15,13,Rainy,1,Standard
+4,0,7,5,Rainy,0,Low Power
+5,10,12,8,Sunny,1,Low Power
+5,0,13,10,Sunny,0,High Power
+5,9,7,13,Cloudy,1,Low Power
+5,0,15,6,Cloudy,0,Low Power
+5,8,6,13,Rainy,1,Low Power
+5,0,10,10,Rainy,0,Low Power
+6,9,14,12,Sunny,1,Low Power
+6,0,13,6,Sunny,0,High Power
+6,7,15,8,Cloudy,1,High Power
+6,0,5,8,Cloudy,0,Low Power
+6,3,6,15,Rainy,1,Low Power
+6,0,11,12,Rainy,0,Standard
+7,9,5,11,Sunny,1,High Power
+7,0,8,6,Sunny,0,High Power
+7,9,9,8,Cloudy,1,Low Power
+7,0,15,14,Cloudy,0,Low Power
+7,6,15,9,Rainy,1,Standard
+7,0,11,11,Rainy,0,High Power
+8,12,14,6,Sunny,1,High Power
+8,0,13,15,Sunny,0,Standard
+8,4,7,9,Cloudy,1,High Power
+8,0,10,9,Cloudy,0,Standard
+8,6,10,14,Rainy,1,High Power
+8,0,10,12,Rainy,0,Standard
+9,2,12,9,Sunny,1,High Power
+9,0,9,12,Sunny,0,Standard
+9,7,12,11,Cloudy,1,High Power
+9,0,10,11,Cloudy,0,High Power
+9,0,12,8,Rainy,1,Standard
+9,0,7,12,Rainy,0,High Power
+10,12,8,7,Sunny,1,Standard
+10,0,10,5,Sunny,0,Standard
+10,9,13,5,Cloudy,1,High Power
+10,0,12,13,Cloudy,0,High Power
+10,1,5,14,Rainy,1,High Power
+10,0,6,7,Rainy,0,High Power
+11,12,7,12,Sunny,1,High Power
+11,0,15,12,Sunny,0,Standard
+11,5,15,13,Cloudy,1,High Power
+11,0,9,14,Cloudy,0,Low Power
+11,3,5,6,Rainy,1,Low Power
+11,0,15,11,Rainy,0,Low Power
+12,1,12,12,Sunny,1,Low Power
+12,0,15,15,Sunny,0,Low Power
+12,12,8,5,Cloudy,1,Low Power
+12,0,15,10,Cloudy,0,High Power
+12,1,13,6,Rainy,1,High Power
+12,0,10,13,Rainy,0,High Power
+13,6,15,8,Sunny,1,High Power
+13,0,8,7,Sunny,0,Standard
+13,1,8,13,Cloudy,1,High Power
+13,0,10,14,Cloudy,0,Low Power
+13,7,15,7,Rainy,1,Standard
+13,0,11,5,Rainy,0,High Power
+14,9,9,12,Sunny,1,High Power
+14,0,11,11,Sunny,0,Standard
+14,7,12,6,Cloudy,1,Low Power
+14,0,10,11,Cloudy,0,Low Power
+14,6,8,12,Rainy,1,High Power
+14,0,10,7,Rainy,0,Low Power
+15,9,14,15,Sunny,1,Standard
+15,0,14,11,Sunny,0,Low Power
+15,8,6,15,Cloudy,1,Low Power
+15,0,12,15,Cloudy,0,Standard
+15,12,13,8,Rainy,1,Standard
+15,0,15,11,Rainy,0,Standard
+16,3,11,13,Sunny,1,Low Power
+16,0,8,14,Sunny,0,Standard
+16,9,15,12,Cloudy,1,Low Power
+16,0,7,6,Cloudy,0,Low Power
+16,8,15,8,Rainy,1,High Power
+16,0,8,6,Rainy,0,Standard
+17,7,5,9,Sunny,1,Low Power
+17,0,5,10,Sunny,0,Standard
+17,0,10,5,Cloudy,1,Standard
+17,0,5,8,Cloudy,0,High Power
+17,12,13,11,Rainy,1,Standard
+17,0,14,10,Rainy,0,Standard
+18,6,8,15,Sunny,1,Low Power
+18,0,12,9,Sunny,0,Low Power
+18,12,7,5,Cloudy,1,Standard
+18,0,11,15,Cloudy,0,High Power
+18,9,14,10,Rainy,1,High Power
+18,0,11,7,Rainy,0,Low Power
+19,6,10,10,Sunny,1,High Power
+19,0,15,5,Sunny,0,Standard
+19,5,6,10,Cloudy,1,Low Power
+19,0,14,9,Cloudy,0,Low Power
+19,7,14,9,Rainy,1,Standard
+19,0,9,5,Rainy,0,Low Power
+20,11,15,9,Sunny,1,High Power
+20,0,9,13,Sunny,0,High Power
+20,11,15,11,Cloudy,1,Standard
+20,0,7,15,Cloudy,0,High Power
+20,8,15,6,Rainy,1,Standard
+20,0,15,5,Rainy,0,Low Power
+21,7,7,10,Sunny,1,Low Power
+21,0,14,12,Sunny,0,High Power
+21,1,14,15,Cloudy,1,Standard
+21,0,11,11,Cloudy,0,Low Power
+21,5,10,14,Rainy,1,Low Power
+21,0,12,11,Rainy,0,Low Power
+22,1,14,11,Sunny,1,Low Power
+22,0,14,6,Sunny,0,High Power
+22,6,6,9,Cloudy,1,Standard
+22,0,7,9,Cloudy,0,Standard
+22,3,11,8,Rainy,1,Low Power
+22,0,13,8,Rainy,0,Low Power
+23,11,14,12,Sunny,1,High Power
+23,0,7,6,Sunny,0,Standard
+23,6,12,5,Cloudy,1,High Power
+23,0,14,10,Cloudy,0,High Power
+23,6,13,13,Rainy,1,High Power
+23,0,5,7,Rainy,0,Standard
